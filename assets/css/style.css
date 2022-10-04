@@ -14,7 +14,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   justify-content: center;
-  background-image: url("https://images.wallpapersden.com/image/download/flying-rocket-5k-digital-art_bWttbGaUmZqaraWkpJRqZmdlrWdtbWU.jpg");
+  background-image: url("/assets/img/wallpapersden.com_flying-rocket-5k-digital-art_5120x2880.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -73,7 +73,7 @@ li {
 
 @media only screen and (max-width: 960px) {
   body {
-    background-image: url("https://images.wallpapersden.com/image/download/the-long-road-hd_bWttZ2qUmZqaraWkpJRmbmdlrWZnZWU.jpg");
+    background-image: url("/assets/img/wallpapersden.com_the-long-road-hd_1920x1200.jpg");
   }
   main {
     margin-left: 50px;
@@ -83,7 +83,7 @@ li {
 
 @media only screen and (max-width: 520px) {
   body {
-    background-image: url("https://images.wallpapersden.com/image/download/the-long-road-hd_bWttZ2qUmZqaraWkpJRmbmdlrWZnZWU.jpg");
+    background-image: url("/assets/img/wallpapersden.com_the-long-road-hd_1920x1200.jpg");
     font-size: 130%;
   }
   main {
